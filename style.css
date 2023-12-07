@@ -1,0 +1,49 @@
+/*Agregar estilo al body*/
+body {
+  background-color: rgb(7, 234, 241);
+  color: rgb(11, 3, 46);
+}
+
+p{
+  color: rgb(22, 10, 10);
+}
+
+
+/*Selectores CSS. Selectores de Tipo. Tamaño de Fuente*/
+h2 {
+  font-size: 30px;
+  /*Ejemplo de Familias Tipográficas*/
+  font-family: Verdana; 
+}
+/*Tamaño de la fuente*/
+h3 {
+  font-size: 25px;
+}
+
+/*Ejemplo de Google Fonts*/
+h1 {
+  font-family: Verdana;
+  font-size: 40px;
+  container: 10;
+}
+
+.imagen {
+  flex: auto;
+  width: 300px;
+  height: 600px;
+    border-radius: 10px;
+  border-color: rgb(11, 25, 221)
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
